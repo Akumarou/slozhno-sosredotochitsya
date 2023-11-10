@@ -56,10 +56,7 @@
   }
 }
 
-.page.theme_auto .header__decorative-element {
-  display: none;
-}
-
+.page.theme_auto .header__decorative-element,
 .page.theme_light .header__decorative-element {
   display: none;
 }
